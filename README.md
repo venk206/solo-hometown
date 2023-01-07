@@ -7,6 +7,9 @@ $ npm install
 $ npm start
 ````
 
+My capstone project for module 2 on Scrimba:
+
+
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
