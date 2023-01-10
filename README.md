@@ -1,5 +1,3 @@
-# co1644c97a2ecae5c437f3b8e
-
 Quick start:
 
 ```
@@ -7,7 +5,7 @@ $ npm install
 $ npm start
 ````
 
-My capstone project for module 2 on Scrimba:
+My capstone project for module 2 on Scrimba:https://ootacamund.netlify.app
 
 
 Head over to https://vitejs.dev/ to learn more about using vite
